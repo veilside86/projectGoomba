@@ -1,0 +1,44 @@
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.csproj.AssemblyReference.cache
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.AssemblyInfoInputs.cache
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.AssemblyInfo.cs
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.csproj.CoreCompileInputs.cache
+/Users/trollcarrier/Desktop/goomba/bin/Debug/net7.0/goomba
+/Users/trollcarrier/Desktop/goomba/bin/Debug/net7.0/goomba.deps.json
+/Users/trollcarrier/Desktop/goomba/bin/Debug/net7.0/goomba.runtimeconfig.json
+/Users/trollcarrier/Desktop/goomba/bin/Debug/net7.0/goomba.dll
+/Users/trollcarrier/Desktop/goomba/bin/Debug/net7.0/goomba.pdb
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.dll
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/refint/goomba.dll
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.pdb
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/goomba.genruntimeconfig.cache
+/Users/trollcarrier/Desktop/goomba/obj/Debug/net7.0/ref/goomba.dll
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/bin/Debug/net7.0/goomba
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/bin/Debug/net7.0/goomba.deps.json
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/bin/Debug/net7.0/goomba.runtimeconfig.json
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/bin/Debug/net7.0/goomba.dll
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/bin/Debug/net7.0/goomba.pdb
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/goomba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/goomba.AssemblyInfoInputs.cache
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/goomba.AssemblyInfo.cs
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/goomba.csproj.CoreCompileInputs.cache
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/goomba.dll
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/refint/goomba.dll
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/goomba.pdb
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/goomba.genruntimeconfig.cache
+/Users/jun/Desktop/BSU/Graduate/2023 Spring/COMP510 Foundations Prog Languages/HW3/goomba/obj/Debug/net7.0/ref/goomba.dll
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/goomba
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/goomba.deps.json
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/goomba.runtimeconfig.json
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/goomba.dll
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/goomba.pdb
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.AssemblyInfoInputs.cache
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.AssemblyInfo.cs
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.csproj.CoreCompileInputs.cache
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.sourcelink.json
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.dll
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/refint/goomba.dll
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.pdb
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/goomba.genruntimeconfig.cache
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/ref/goomba.dll

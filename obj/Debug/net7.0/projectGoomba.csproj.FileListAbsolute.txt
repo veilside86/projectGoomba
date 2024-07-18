@@ -1,0 +1,15 @@
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/projectGoomba
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/projectGoomba.deps.json
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/projectGoomba.runtimeconfig.json
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/projectGoomba.dll
+/Users/jun/Desktop/resume/projectGoomba/bin/Debug/net7.0/projectGoomba.pdb
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.AssemblyInfoInputs.cache
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.AssemblyInfo.cs
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.csproj.CoreCompileInputs.cache
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.sourcelink.json
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.dll
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/refint/projectGoomba.dll
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.pdb
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/projectGoomba.genruntimeconfig.cache
+/Users/jun/Desktop/resume/projectGoomba/obj/Debug/net7.0/ref/projectGoomba.dll
